@@ -15,8 +15,8 @@ int getValueFromUser() {
 
 int main() {
 
-    int x { getValueFromUser() };
-    printValueDoubled(x);
+
+    printValueDoubled(getValueFromUser());
 
     return 0;
 }
