@@ -1,6 +1,7 @@
 #include <iostream>
 
 int add(int x, int y);
+int doMath(int first, int second, int third, int fourth);
 void displayResult(int x);
 
 
